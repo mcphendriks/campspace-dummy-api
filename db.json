@@ -3,11 +3,11 @@
     {
       "id": "1",
       "booking_url": "https://campspace.com/en/s/terug-naar-de-basis-natuurkampeerterrein-in-dranouter-heuvelland_5038?pitchTypeId=2846&#host",
-      "price": 50,
-      "campspace_logo": "/images/campspace-logo-white.png",
+      "price": 32,
+      "campspace_logo": "./images/campspace-logo-white.png",
       "images": [
         {
-          "url": "/images/campspace-host-1.jpeg",
+          "url": "https://example.com/slider-image2.jpg",
           "width": 400,
           "height": 300
         },
@@ -18,6 +18,29 @@
         },
         {
           "url": "https://example.com/slider-image3.jpg",
+          "width": 400,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "booking_url": "https://campspace.com/en/s/glamping-sandkjaergard_5488?pitchTypeId=3493&startDate=&endDate=&numberOfAdults=2&numberOfChildren=0&filter%5Baccommodations%5D%5B0%5D=onsite_tent&filter%5Baccommodations%5D%5B1%5D=onsite_yurt",
+      "price": 50,
+      "campspace_logo": "/images/campspace-logo-white.png",
+      "images": [
+        {
+          "url": "https://campspace.com/media/detail/uploads/space/hc/_2/73/hc_2739426a1a6d37b13fe8e2ae837ad324.jpeg",
+          "width": 400,
+          "height": 300
+        },
+        {
+          "url": "https://campspace.com/media/detail/uploads/space/hc/_f/ec/hc_feca62424145567601ccf1e08e820b00.jpeg",
+          "width": 400,
+          "height": 300
+        },
+        {
+          "url": "https://campspace.com/media/detail/uploads/space/hc/_a/7a/hc_a7ab20b3b2d79c117ab283d12f96d3f9.jpeg",
           "width": 400,
           "height": 300
         }
