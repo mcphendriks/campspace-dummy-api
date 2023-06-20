@@ -27,7 +27,7 @@
       "id": "2",
       "booking_url": "https://campspace.com/en/s/glamping-sandkjaergard_5488?pitchTypeId=3493&startDate=&endDate=&numberOfAdults=2&numberOfChildren=0&filter%5Baccommodations%5D%5B0%5D=onsite_tent&filter%5Baccommodations%5D%5B1%5D=onsite_yurt",
       "price": 50,
-      "campspace_logo": "/images/campspace-logo-white.png",
+      "campspace_logo": "./images/campspace-logo-white.png",
       "images": [
         {
           "url": "https://campspace.com/media/detail/uploads/space/hc/_2/73/hc_2739426a1a6d37b13fe8e2ae837ad324.jpeg",
