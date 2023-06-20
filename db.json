@@ -4,7 +4,7 @@
       "id": "1",
       "booking_url": "https://campspace.com/en/s/terug-naar-de-basis-natuurkampeerterrein-in-dranouter-heuvelland_5038?pitchTypeId=2846&#host",
       "price": 32,
-      "campspace_logo": "./images/campspace-logo-white.png",
+      "campspace_logo": "images/campspace-logo-white.png",
       "images": [
         {
           "url": "https://example.com/slider-image2.jpg",
