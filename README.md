@@ -16,9 +16,11 @@
 ## Beschrijving
 Campspace API is een RESTful API voor test- en ontwikkelingsdoeleinden. Er wordt gebruik gemaakt van de kracht van de json-server package, waardoor ik een volledig functionele API hebt zonder dat ik code hoef te schrijven.
 
-Met Campspace Dummy API kun je eenvoudig endpoints maken, data definiëren en verschillende HTTP-methoden simuleren, zoals GET, POST, PUT en DELETE. Het is een uitstekende tool voor frontend ontwikkelaars, mobiele app ontwikkelaars of iedereen die tijdens de ontwikkeling met een API moet communiceren.
+Heroku gebruikt om API-url op te halen. 
+Met Heroku  kun je eenvoudig endpoints maken, data definiëren en verschillende HTTP-methoden simuleren, zoals GET, POST, PUT en DELETE. Het is een uitstekende tool voor frontend ontwikkelaars, mobiele app ontwikkelaars of iedereen die tijdens de ontwikkeling met een API moet communiceren.
 
 ## Gebruik
+0. Wil je het Json-file bewerken? volg onderstaande stappen en anders navigeer naar de link [campspace-dummy-data](https://campspace-dummy-data-test-a454ba90df28.herokuapp.com/hosts)
 1. Installeer Node.js op je computer als je dat nog niet hebt gedaan.
 2. Clone of download de Campspace Dummy API repository van GitHub.
 3. Open een terminal of opdrachtprompt en navigeer naar de projectmap.
