@@ -14,6 +14,9 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
+
+<img width="500" alt="Screenshot 2023-06-24 at 22 38 35" src="https://github.com/mcphendriks/campspace-dummy-api/assets/106346778/0e4f2226-741f-4daf-874d-7ed8b7f4ab64">
+
 Campspace API is een RESTful API voor test- en ontwikkelingsdoeleinden. Er wordt gebruik gemaakt van de kracht van de json-server package, waardoor ik een volledig functionele API hebt zonder dat ik code hoef te schrijven.
 
 Heroku gebruikt om API-url op te halen. 
